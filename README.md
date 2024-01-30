@@ -69,7 +69,7 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 ### Home page
 
-<img src="./client/src/images/full_pic.png" alt='home'/>
+<img src="../client/src/images/full_pic.png" alt='home'/>
 
 ### Sign up page
 

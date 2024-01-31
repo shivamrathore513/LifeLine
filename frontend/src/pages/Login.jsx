@@ -30,6 +30,7 @@ function Login() {
     try {
       e.preventDefault();
       const { email, password } = formDetails;
+      
       if (!email || !password) {
         return toast.error("Input field should not be empty");
       } else if (password.length < 5) {

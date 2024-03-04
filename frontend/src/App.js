@@ -1,6 +1,7 @@
 import "./styles/app.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Login from "./pages/Login";
+import Error from "./pages/Error";
 import Register from "./pages/Register";
 import { Toaster } from "react-hot-toast";
 import { Protected, Public, Admin } from "./middleware/route";
